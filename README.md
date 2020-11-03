@@ -1,5 +1,5 @@
 ### Hi there 👋
-Oi, nome é Victor Brasil estudante de ADS no IFPB de Cajazeiras!
+Oi, meu nome é Victor Brasil estudante de ADS no IFPB de Cajazeiras!
 <!--
 **VictorBrasil/VictorBrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
